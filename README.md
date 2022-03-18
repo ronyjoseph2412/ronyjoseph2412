@@ -31,7 +31,11 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronyjoseph2412&show_icons=true&locale=en" alt="ronyjoseph2412" /></p>
+
+
+
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ronyjoseph2412&show_icons=true&locale=en" alt="ronyjoseph2412" /></p>
 
 
 
