@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **MERN Stack Development**
 
-- 🌱 I’m currently learning **more and more about Full-Stack Development**
+- 🌱 I’m currently learning **Android Devolpment / DSA**
 
-- 👯 I’m looking to collaborate on **Any Web-Development Projects**
+- 👯 I’m looking to collaborate on **Any Open-Source Projects**
 
 - 💬 Ask me about **React.JS,Express.JS,Django**
 
