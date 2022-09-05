@@ -5,7 +5,7 @@
 <h3 align="center">An Ambitious Full-Stack Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack Development<br><br>🌱 I’m currently learning Android Development / Data Structures and Algorithms<br><br>👯 I’m looking to collaborate on Any Open-Source Projects<br><br>💬 Ask me about React.JS, Express.JS, Django<br><br>📫 Reach me at ronyrock1@gmail.com
+🔭 I’m currently working on React/Django/MERN Stack Development<br><br>🌱 I’m currently learning React Native Development / Data Structures and Algorithms<br><br>👯 I’m looking to collaborate on Any Open-Source Projects<br><br>💬 Ask me about React.JS, Express.JS, Django<br><br>📫 Reach me at ronyrock1@gmail.com
 
 
 # 💻 Tech Stack:
